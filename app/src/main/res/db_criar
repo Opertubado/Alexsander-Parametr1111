@@ -1,0 +1,4 @@
+CREATE TABLE main (
+      id integer NOT NULL PRIMARY KEY,
+      nome varchar(255) NOT NULL
+  );

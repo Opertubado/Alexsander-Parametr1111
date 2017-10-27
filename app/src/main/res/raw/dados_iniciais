@@ -1,0 +1,1 @@
+INSERT INTO main (id, nome) VALUES (1, 'main 1');
